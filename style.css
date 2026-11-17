@@ -24,6 +24,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "TT Lakes";
+  position: fixed;
+  left: 0;
 }
 
 .sidebar {
